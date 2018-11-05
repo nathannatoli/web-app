@@ -1,0 +1,14 @@
+html, body{
+	height:100%;
+}
+body{
+	display:flex;
+	background:#000000;
+}
+p{
+	margin:auto;
+	text-align:center;
+	font-family: 'Press Start 2P', cursive;
+	font-size:2em;
+	color:#FFFFFF;
+}
